@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Tic Tac Toe
+Comment=A simple game of Tic Tac Toe
+Exec=python3 /home/shsrra/CODE/GUI/TicTacToe/game.py
+Icon=/home/shsrra/CODE/GUI/TicTacToe/tac.png
+Terminal=false
+Type=Application
+Categories=Games;
+
